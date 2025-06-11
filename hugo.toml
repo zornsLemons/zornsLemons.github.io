@@ -24,7 +24,7 @@ palette = "base16-dark"
 # Sidebar: about/bio
 [params.about]
 title = "Zach Adams"
-description = "Dad, data scientist, tinkerer. Equivalent to the axiom of choice for your convenience"
+description = "Dad, data scientist, tinkerer. Conviniently Equivalent to the axiom of choice."
 # unicode/emoji logo:
 logo = "🍋"
 # or use an image:
