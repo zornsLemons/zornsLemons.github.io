@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Professionally Curious</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Professionally Curious</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Learn Math (especially on your own)</title>
+      <link>http://localhost:1313/posts/how_to_learn_math/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/how_to_learn_math/</guid>
+      <description>&lt;h1 id=&#34;coming-soon&#34;&gt;coming soon&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Project Variety, thermodynamics, and the hunt for engaged workers</title>
+      <link>http://localhost:1313/posts/entropy_and_you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/entropy_and_you/</guid>
+      <description>&lt;p&gt;Does working a lot on one project make Jack a dull boy? Does it make Jack want to quit his job and buy a sail boat? How is the mighty Claude Shannon involved?&#xA;These are serious questions faced by many professional services firms every day.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scuffed Numerics in Rusty</title>
+      <link>http://localhost:1313/projects/rustynumer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/rustynumer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>What I&#39;m up to</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming Soon&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>wordGo</title>
+      <link>http://localhost:1313/projects/wordgo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/wordgo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zach Adams.cv</title>
+      <link>http://localhost:1313/posts/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cv/</guid>
+      <description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming Soon!&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
