@@ -1,5 +1,5 @@
 ---
-title: "Scuffed Numerics in Rusty"
-description: "How I learned Rust"
+title: "Scuffed Numerics in Rust"
+description: "How I learned Rust by doing calculus"
 theme_version: '2.8.2'
 ---

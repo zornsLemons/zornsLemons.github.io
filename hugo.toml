@@ -24,7 +24,7 @@ palette = "base16-dark"
 # Sidebar: about/bio
 [params.about]
 title = "Zach Adams"
-description = "Dad, data scientist, tinkerer. Conviniently Equivalent to the axiom of choice."
+description = "Dad, data scientist, tinkerer. Conveniently equivalent to the axiom of choice."
 # unicode/emoji logo:
 logo = "🍋"
 # or use an image:
@@ -63,16 +63,19 @@ url = "https://x.com/_outerproduct"
     name = "CV"
     url = "/about/"
     weight = 10
-  [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
-    weight = 10
+
   [[menu.main]]
     identifier = "projects"
     name = "projects"
     url = "/projects/"
     weight = 10
+  
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
 [taxonomies]
 category = "categories"
 tag = "tags"

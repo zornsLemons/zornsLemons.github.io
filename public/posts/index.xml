@@ -21,12 +21,5 @@
       <guid>http://localhost:1313/posts/entropy_and_you/</guid>
       <description>&lt;p&gt;Does working a lot on one project make Jack a dull boy? Does it make Jack want to quit his job and buy a sail boat? How is the mighty Claude Shannon involved?&#xA;These are serious questions faced by many professional services firms every day.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Zach Adams.cv</title>
-      <link>http://localhost:1313/posts/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cv/</guid>
-      <description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming Soon!&lt;/h1&gt;&#xA;&lt;h1 id=&#34;cv&#34;&gt;CV&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/zornsLemons/zornsLemons.github.io/blob/main/assets/files/zach_adams_cv.pdf&#34;&gt;Zach Adams&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;read-my&#34;&gt;Read My&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/zornsLemons/zornsLemons.github.io/blob/main/assets/files/zach_adams_masters_thesis.pdf&#34;&gt;Master&amp;rsquo;s Thesis&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/zornsLemons/zornsLemons.github.io/blob/main/assets/files/improving_time_bounds_for_the_contact_process_on_finite_graphs_using__k__dominating_sets.pdf&#34;&gt;Bachelor&amp;rsquo;s Thesis&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

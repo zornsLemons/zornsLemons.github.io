@@ -15,6 +15,20 @@
       <description>&lt;h1 id=&#34;coming-soon&#34;&gt;coming soon&lt;/h1&gt;</description>
     </item>
     <item>
+      <title>My Home Lab</title>
+      <link>http://localhost:1313/projects/home_lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/home_lab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My Work</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;gensler&#34;&gt;&lt;a href=&#34;https://www.gensler.com/&#34;&gt;Gensler&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Director Of People Analytics&lt;/li&gt;&#xA;&lt;li&gt;Researcher with &lt;a href=&#34;https://www.gensler.com/gensler-research-institute&#34;&gt;Gensler Research Institute&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/zornsLemons/zornsLemons.github.io/blob/main/assets/files/zach_adams_cv.pdf&#34;&gt;CV&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;check-me-out-on&#34;&gt;Check me out on&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/episode/4PUurDDg2eMdeNtDD0EXGX?si=bda1846fd4cf4082&#34;&gt;Scraping Bits Podcast&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;read-my&#34;&gt;Read My&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/zornsLemons/zornsLemons.github.io/blob/main/assets/files/zach_adams_masters_thesis.pdf&#34;&gt;Master&amp;rsquo;s Thesis&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/zornsLemons/zornsLemons.github.io/blob/main/assets/files/improving_time_bounds_for_the_contact_process_on_finite_graphs_using__k__dominating_sets.pdf&#34;&gt;Bachelor&amp;rsquo;s Thesis&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;contributing&#34;&gt;Contributing&lt;/h1&gt;&#xA;&lt;p&gt;Core non-essential personnel at &lt;a href=&#34;https://github.com/harnesslabs&#34;&gt;Harness Labs&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;&#xA;&lt;h2 id=&#34;some-tools-i-am-loving&#34;&gt;Some Tools I am Loving&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Text Analytics with &lt;a href=&#34;https://github.com/huggingface/transformers&#34;&gt;🤗 Transformers&lt;/a&gt;, &lt;a href=&#34;https://umap-learn.readthedocs.io/en/latest/&#34;&gt;UMAP&lt;/a&gt;, and &lt;a href=&#34;https://ripser.scikit-tda.org/en/latest/&#34;&gt;Ripser&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Survival Analysis with &lt;a href=&#34;https://lifelines.readthedocs.io/en/latest/&#34;&gt;Lifelines&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Monte-Carlo Forecasting for all kinds of events I can&amp;rsquo;t talk about&lt;/li&gt;&#xA;&lt;li&gt;Data assimilation binding Mathematical models with observed data for (COVID-19 Forecasting and Risk assesments)&lt;/li&gt;&#xA;&lt;li&gt;Time series analysis and forecasting (turnover, headcount, absenteeism)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/harnesslabs/cova&#34;&gt;Cova&lt;/a&gt; for when you need a bit more abstraction&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>Project Variety, thermodynamics, and the hunt for engaged workers</title>
       <link>http://localhost:1313/posts/entropy_and_you/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -22,18 +36,11 @@
       <description>&lt;p&gt;Does working a lot on one project make Jack a dull boy? Does it make Jack want to quit his job and buy a sail boat? How is the mighty Claude Shannon involved?&#xA;These are serious questions faced by many professional services firms every day.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Scuffed Numerics in Rusty</title>
+      <title>Scuffed Numerics in Rust</title>
       <link>http://localhost:1313/projects/rustynumer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/rustynumer/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>What I&#39;m up to</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming Soon&lt;/h1&gt;</description>
     </item>
     <item>
       <title>wordGo</title>
@@ -41,13 +48,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/wordgo/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Zach Adams.cv</title>
-      <link>http://localhost:1313/posts/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cv/</guid>
-      <description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming Soon!&lt;/h1&gt;&#xA;&lt;h1 id=&#34;cv&#34;&gt;CV&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/zornsLemons/zornsLemons.github.io/blob/main/assets/files/zach_adams_cv.pdf&#34;&gt;Zach Adams&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;read-my&#34;&gt;Read My&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/zornsLemons/zornsLemons.github.io/blob/main/assets/files/zach_adams_masters_thesis.pdf&#34;&gt;Master&amp;rsquo;s Thesis&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/zornsLemons/zornsLemons.github.io/blob/main/assets/files/improving_time_bounds_for_the_contact_process_on_finite_graphs_using__k__dominating_sets.pdf&#34;&gt;Bachelor&amp;rsquo;s Thesis&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
