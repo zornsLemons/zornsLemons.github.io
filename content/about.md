@@ -23,8 +23,7 @@ cascade:
 # Contributing
 Core non-essential personnel at [Harness Labs](https://github.com/harnesslabs)
 
-# Skills
-## Some Tools I am Loving
+# Some Tools I am Loving
 - Text Analytics with [🤗 Transformers](https://github.com/huggingface/transformers), [UMAP](https://umap-learn.readthedocs.io/en/latest/), and [Ripser](https://ripser.scikit-tda.org/en/latest/)
 - Survival Analysis with [Lifelines](https://lifelines.readthedocs.io/en/latest/)
 - Monte-Carlo Forecasting for all kinds of events I can't talk about
