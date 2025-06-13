@@ -14,7 +14,7 @@ cascade:
 - [CV](https://github.com/zornsLemons/zornsLemons.github.io/blob/main/assets/files/zach_adams_cv.pdf)
 
 # Check me out on
-[Scraping Bits Podcast](https://open.spotify.com/episode/4PUurDDg2eMdeNtDD0EXGX?si=bda1846fd4cf4082)
+- [Scraping Bits Podcast](https://open.spotify.com/episode/4PUurDDg2eMdeNtDD0EXGX?si=bda1846fd4cf4082)
 
 # Read My 
 - [Master's Thesis](https://github.com/zornsLemons/zornsLemons.github.io/blob/main/assets/files/zach_adams_masters_thesis.pdf)
