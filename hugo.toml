@@ -16,7 +16,8 @@ sectionPagesMenu = "main"
 pagerSize = 3
 
 [params]
-noindex = false
+  noindex = false
+  math = true
 
 [params.theme]
 palette = "base16-dark"

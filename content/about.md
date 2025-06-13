@@ -31,3 +31,4 @@ Core non-essential personnel at [Harness Labs](https://github.com/harnesslabs)
 - Data assimilation binding Mathematical models with observed data for (COVID-19 Forecasting and Risk assesments)
 - Time series analysis and forecasting (turnover, headcount, absenteeism)
 - [Cova](https://github.com/harnesslabs/cova) for when you need a bit more abstraction
+
