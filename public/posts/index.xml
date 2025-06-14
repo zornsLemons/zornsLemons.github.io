@@ -14,5 +14,12 @@
       <guid>http://localhost:1313/posts/how_to_learn_math/</guid>
       <description>&lt;h1 id=&#34;coming-soon&#34;&gt;coming soon&lt;/h1&gt;</description>
     </item>
+    <item>
+      <title>How to read a math book</title>
+      <link>http://localhost:1313/posts/how_to_read/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/how_to_read/</guid>
+      <description>&lt;p&gt;There are many ways to read math, Here is my strategy, it works for me, others do this differently with great success. I can&amp;rsquo;t tell you how to live your life but my suggestion is to try it this way and adapt it to your style. I read with the book, a pen, and a legal pad (or a white board/chalk board, or if you&amp;rsquo;re so inclined a TeX editor). You want to make it cheap to write stuff down because you&amp;rsquo;ll be writing a lot more than you&amp;rsquo;re reading so  do whatever you need to achieve that.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
