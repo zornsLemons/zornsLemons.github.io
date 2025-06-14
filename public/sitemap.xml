@@ -8,26 +8,14 @@
   </url><url>
     <loc>http://localhost:1313/tags/index/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/home_lab/</loc>
-  </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/entropy_and_you/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/projects/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/rustynumer/</loc>
-  </url><url>
     <loc>http://localhost:1313/series/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/wordgo/</loc>
   </url>
 </urlset>
